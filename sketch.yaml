@@ -1,0 +1,7 @@
+default_profile: nano_esp32
+
+profiles:
+  nano_esp32:
+    fqbn: arduino:esp32:nano_nora:USBMode=hwcdc
+    platforms:
+      - platform: arduino:esp32 (2.0.18-arduino.5)

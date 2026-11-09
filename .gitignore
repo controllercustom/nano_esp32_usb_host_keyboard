@@ -1,0 +1,5 @@
+# Arduino CLI build artefacts
+build/
+
+# Wi-Fi / OTA secrets — see credentials.example.h
+credentials.h
